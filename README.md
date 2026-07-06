@@ -36,26 +36,6 @@ status: Career Gap
 role: Frontend / Full-Stack Developer & Open Source Creator
 ```
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=algerkong&theme=tokyonight&hide_border=true&background=00000000&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=algerkong&theme=tokyo-night&hide_border=true&bg_color=00000000&line=58a6ff&point=ff6b6b&area=true&area_color=58a6ff" />
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/algerkong/algerkong/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/algerkong/algerkong/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/algerkong/algerkong/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
 ---
 
 <div align="center">
