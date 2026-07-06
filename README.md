@@ -45,3 +45,6 @@ role: Frontend / Full-Stack Developer & Open Source Creator
 </a>
 
 </div>
+
+
+<img src="./alger3.svg"/>
